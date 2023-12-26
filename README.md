@@ -10,5 +10,5 @@
 ![image](https://github.com/GaoWeiChang/Salary_Prediction_Web_App_with_Streamlit/assets/128176822/be28c502-4bd8-4578-b1fc-554935b8b029)
 
 * #### Exploration Page
-![image](https://github.com/GaoWeiChang/Salary_Prediction_Web_App_with_Streamlit/assets/128176822/75cd9e5f-8bf5-4178-a58d-bbaad804d2d8)
+![image](https://github.com/GaoWeiChang/Salary_Prediction_Web_App_with_Streamlit/assets/128176822/e08aaae4-0939-40c0-bc4b-45be584353b5)
 ![image](https://github.com/GaoWeiChang/Salary_Prediction_Web_App_with_Streamlit/assets/128176822/11dd863a-fd98-4f96-b402-0da8077a1ad2)
